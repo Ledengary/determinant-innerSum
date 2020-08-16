@@ -7,3 +7,4 @@
 
 The second part of the project is dedicated to calculating the sum of brackets which are recursively calculated.
 
+![Example](https://user-images.githubusercontent.com/60043933/90340660-133b3500-e00f-11ea-99ff-71c3075c5079.JPG)
